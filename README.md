@@ -7,3 +7,4 @@ Neuradorsal Research
 - [Treating complex movement disorders in children with cerebral palsy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2773587/)
 - [The Effects of Selective Dorsal Rhizotomy on Balance and Symmetry of Gait in Children with Cerebral Palsy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4820221/)
 - [How To Make A Brain Computer Interface to Communicate with Google](https://towardsdatascience.com/merging-with-ai-how-to-make-a-brain-computer-interface-to-communicate-with-google-using-keras-and-f9414c540a92)
+- [Kernel](https://www.kernel.com/)
